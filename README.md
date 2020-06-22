@@ -11,3 +11,8 @@
 - [第二周作业2](https://github.com/rooobot/architecture-training/issues/4)
 - [第二周作业3](https://github.com/rooobot/architecture-training/issues/5)
 - [第二周总结](https://github.com/rooobot/architecture-training/issues/6)
+
+> 第三周
+
+- [第三周练习：作业1&作业2](https://github.com/rooobot/architecture-training/issues/7)
+- [第三周总结](https://github.com/rooobot/architecture-training/issues/8)
