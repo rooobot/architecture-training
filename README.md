@@ -27,3 +27,8 @@
 
 - [第五周练习：作业](https://github.com/rooobot/architecture-training/issues/12)
 - [第五周总结](https://github.com/rooobot/architecture-training/issues/13)
+
+> 第六周
+
+- [第六周练习：作业](https://github.com/rooobot/architecture-training/issues/14)
+- [第六周总结](https://github.com/rooobot/architecture-training/issues/15)
