@@ -44,3 +44,9 @@
 
 - [第八周练习：作业](https://github.com/rooobot/architecture-training/issues/18)
 - [第八周总结](https://github.com/rooobot/architecture-training/issues/19)
+
+> 第九周
+
+- [第九周练习：作业](https://github.com/rooobot/architecture-training/issues/20)
+- [第九周总结](https://github.com/rooobot/architecture-training/issues/21)
+
