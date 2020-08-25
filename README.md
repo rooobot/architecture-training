@@ -55,4 +55,9 @@
 - [第十周练习：作业](https://github.com/rooobot/architecture-training/issues/22)
 - [第十周总结](https://github.com/rooobot/architecture-training/issues/23)
 
+> 第十一周
+
+- [第十一周练习：作业](https://github.com/rooobot/architecture-training/issues/24)
+- [第十一周总结](https://github.com/rooobot/architecture-training/issues/25)
+
 
